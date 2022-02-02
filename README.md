@@ -14,7 +14,7 @@ Laravel 6.0
 ![alt text](https://github.com/hoanghuee/laravel-certificate/blob/main/asset/topics.png)
 
 ## Start:
-
+[Day 1](https://github.com/hoanghuee/laravel-certificate/blob/main/practice/day1.md)
 ## Reference:
 [Practice in studysection (v5.x) - Expert](https://www.studysection.com/laravel-5.x-expert)
 
