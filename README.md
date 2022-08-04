@@ -15,7 +15,13 @@ Laravel 6.0
 
 ## Start:
 [Day 1](https://github.com/hoanghuee/laravel-certificate/blob/main/practice/day1.md)
+[Day 2](https://github.com/hoanghuee/laravel-certificate/blob/main/practice/day2.md)
+
+## Exam:
+[Q1](https://github.com/hoanghuee/laravel-certificate/blob/main/exam/Q1.md)
 ## Reference:
 [Practice in studysection (v5.x) - Expert](https://www.studysection.com/laravel-5.x-expert)
 
 [Practice in studysection (v5.x) - Advance](https://www.studysection.com/laravel-5.x-advanced)
+
+[Some thing simple first - mcqpoint](https://mcqpoint.com/mcq/laravel/)
